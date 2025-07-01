@@ -6,8 +6,8 @@ A classic Rock, Paper, Scissors game implemented in Java. Play against the compu
 - Randomly generates the computer’s move
 - Compares both choices and determines the winner
 - Keeps a running score:
-  Win → +1
-  Loss → -1
-  Tie → 0
+  - Win → +1
+  - Loss → -1
+  - Tie → 0
 - Asks if you want to play again
 
